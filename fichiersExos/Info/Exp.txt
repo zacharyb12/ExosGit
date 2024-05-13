@@ -1,0 +1,6 @@
+exp test 
+
+sport,
+code,
+serie et film,
+jeu video
